@@ -24,3 +24,17 @@ section{
     height: 100vh;
     scroll-snap-align: center;
 }
+
+.cource{
+    height:100vh ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .box{
+        width: 200px;
+        height: 100px;
+        background-color:white;
+        
+    }
+}
